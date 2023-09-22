@@ -34,3 +34,10 @@ video {
     width: auto;
     padding-top: 30px;
 }
+
+footer {
+    text-align: right;
+    color: gray;
+    font-size: 12px;
+    padding: 10px;
+}
